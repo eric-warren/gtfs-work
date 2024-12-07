@@ -1,0 +1,7 @@
+gtfs/
+done/
+schedule/
+config.py
+gtfs_cache.db
+model.dbml
+__pycache__

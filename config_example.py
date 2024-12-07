@@ -1,0 +1,1 @@
+SUBSCRIPTION_KEY = 'your_key_here'
